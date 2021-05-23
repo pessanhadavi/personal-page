@@ -1,0 +1,17 @@
+#footer {
+    padding: 20px;
+}
+
+.list-inline {
+    list-style: none;
+    padding-left: 0px;
+}
+
+.list-inline li{
+    display: inline-block;
+    padding: 10px 20px 0px 20px;
+}
+
+.icon {
+    font-size: 30px;
+}

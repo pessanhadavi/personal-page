@@ -1,0 +1,22 @@
+.btn-green {
+    padding: 12px;
+    border-radius: 6px;
+    font-family: 'Open Sans', sans-serif;
+    background-color: #053225;
+    font-weight: 400;
+    color: #ffffff;
+    margin: 8px;
+    font-size: 15.5px;
+}
+
+.btn-green:hover {
+    background-color: #34656d;
+}
+
+.btn-icon {
+    color: #053225;
+}
+
+.btn-icon:hover {
+    color: #34656d;
+}
